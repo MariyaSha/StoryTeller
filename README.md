@@ -16,7 +16,6 @@ Alice: http://www.gutenberg.org/files/11/11-0.txt
 Please replace the following varibles in the notebook with the .txt files in the repository,
 <br>
 as this notebook links to my own Google Drive.
-
 1. fairytales_url : ensure it links to FairytalesByTheBrothersGrimm.txt
 <br>
 2. alice_url : ensure it links to AlicesAdvanturesInWonderland.txt
