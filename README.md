@@ -18,11 +18,11 @@ IMPORTANT NOTES
 Please replace the following varibles in the notebook with the .txt files in the repository,
 as this notebook links to my own Google Drive.
 <br>
-* fairytales_url : ensure it links to FairytalesByTheBrothersGrimm.txt
+fairytales_url : ensure it links to FairytalesByTheBrothersGrimm.txt
 <br>
-* alice_url : ensure it links to AlicesAdvanturesInWonderland.txt
+alice_url : ensure it links to AlicesAdvanturesInWonderland.txt
 <br>
-* checkpoint_url : any location to save model's checkpoint after training
+checkpoint_url : any location to save model's checkpoint after training
 <br>
 <br>
 <b>
