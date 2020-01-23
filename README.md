@@ -1,7 +1,6 @@
 # StoryTeller
 Text-generating Neural Network, trained on Fairytales by The Brothers Grimm and Alice's Adventures in Wonderland by Lewis Carroll.
 <br>
-https://www.gutenberg.org/files/2591/2591-h/2591-h.htm
 GPU connection is highly recomended for taining, as it may take over 10 hours to train on CPU.
 <br>
 <b>Text files were generated from:</b>
