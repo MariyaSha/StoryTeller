@@ -20,7 +20,7 @@ Alice: http://www.gutenberg.org/files/11/11-0.txt
 IMPORTANT NOTES
 </b>
 <br>
-Please replace the following varibles in the notebook with the .txt files in the repository,
+Please replace the following variables in the notebook with the .txt files in the repository,
 <br>
 as this notebook links to my own Google Drive.
 <br>
