@@ -11,7 +11,9 @@ Fairytales: https://www.gutenberg.org/files/2591/2591-h/2591-h.htm
 Alice: http://www.gutenberg.org/files/11/11-0.txt
 <br>
 <br>
-<b>IMPORTANT NOTES</b>
+<b>
+IMPORTANT NOTES
+</b>
 <br>
 Please replace the following varibles in the notebook with the .txt files in the repository,
 as this notebook links to my own Google Drive.
