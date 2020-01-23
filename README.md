@@ -1,8 +1,8 @@
 # StoryTeller
-<br>
 Created by: Mariya Shavshyshvili
 <br>
 email: mariyasha888@gmail.com
+<br>
 <br>
 Text-generating Neural Network, trained on Fairytales by The Brothers Grimm and Alice's Adventures in Wonderland by Lewis Carroll.
 <br>
